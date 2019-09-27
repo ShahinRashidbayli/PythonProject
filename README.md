@@ -9,7 +9,4 @@ If we enter correct credentials we can access the main page otherwise it shows w
 Screenshots of our project
 
 1 Lets write correct credentials
-
-<div align="center">
-    <img src="C:\Users\SHAHINRASHIDBAYLI\Desktop\piton\1.PNG" width="400px"</img> 
-</div>
+<img src="C:\Users\SHAHINRASHIDBAYLI\Desktop\piton\1.PNG" width="400px"</img> 
