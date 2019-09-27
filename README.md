@@ -27,13 +27,13 @@ If we enter correct credentials we can access the main page otherwise it shows w
 
 4. Lets write correct credentials
 
-        ![4](https://user-images.githubusercontent.com/30684778/65774849-1fe14100-e150-11e9-89b1-4941cd3d54d2.PNG)
+![4](https://user-images.githubusercontent.com/30684778/65774849-1fe14100-e150-11e9-89b1-4941cd3d54d2.PNG)
 
 
 5. Lets write correct credentials
 
 
-        ![5](https://user-images.githubusercontent.com/30684778/65774957-5028df80-e150-11e9-850e-a92998127b06.PNG)
+![5](https://user-images.githubusercontent.com/30684778/65774957-5028df80-e150-11e9-850e-a92998127b06.PNG)
 
 
         ![6](https://user-images.githubusercontent.com/30684778/65774989-5dde6500-e150-11e9-8a7c-476ef680aefb.PNG)
