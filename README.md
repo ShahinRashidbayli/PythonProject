@@ -17,12 +17,12 @@ If we enter correct credentials we can access the main page otherwise it shows w
 
 2. Lets write correct credentials
 
-        ![2](https://user-images.githubusercontent.com/30684778/65774782-02ac7280-e150-11e9-9f78-84ba2b1f6e55.PNG)
+  ![2](https://user-images.githubusercontent.com/30684778/65774782-02ac7280-e150-11e9-9f78-84ba2b1f6e55.PNG)
 
 
 3. Lets write correct credentials
 
-        ![3](https://user-images.githubusercontent.com/30684778/65774816-10fa8e80-e150-11e9-8cfe-ed54ae6a7132.PNG)
+  ![3](https://user-images.githubusercontent.com/30684778/65774816-10fa8e80-e150-11e9-8cfe-ed54ae6a7132.PNG)
 
 
 4. Lets write correct credentials
