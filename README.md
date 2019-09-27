@@ -36,5 +36,7 @@ Note: If we enter correct credentials we can access the main page otherwise it s
 
 ![5](https://user-images.githubusercontent.com/30684778/65774957-5028df80-e150-11e9-850e-a92998127b06.PNG)
 
+
 6. You can see we have to wait 5 sec after 5 times wrong credentials
-        ![6](https://user-images.githubusercontent.com/30684778/65774989-5dde6500-e150-11e9-8a7c-476ef680aefb.PNG)
+
+![6](https://user-images.githubusercontent.com/30684778/65774989-5dde6500-e150-11e9-8a7c-476ef680aefb.PNG)
