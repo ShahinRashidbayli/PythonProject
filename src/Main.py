@@ -12,7 +12,7 @@ def girisFunction():
         if time.time() - zaman >= 5:
             sinamahakki = 4
         else:
-            netice.config(text="5 san gozle")
+            netice.config(text="wait 5 second please..")
             return False
 
     Name = ad.get()
@@ -20,15 +20,15 @@ def girisFunction():
     print (Name, " - ", parol)
     print ("Controlling...")
     if Name == melumatlar[0] and parol == melumatlar[1]:
-        print ("Melumatlar dogrudur..")
-        netice.config(text="Muveffeqiyyetle daxil olundu..")
+        print ("Credentials is correct..")
+        netice.config(text="Successfully logged in..")
         ekranitemizle()
     else:
-        print ("Melumatlar sehvdir")
+        print ("Wrong Credentials..")
         sinamahakki -= 1
-    if sinamahakki == 0:
-        zaman = time.time()
-        netice.config(text="Melumatlar sehvdir.. Qalan sinama: %d" % sinamahakki)
+        if sinamahakki == 0:
+            zaman = time.time()
+        netice.config(text="Wrong Credentials.. Left: %d" % sinamahakki)
 
 
 def ekranitemizle():
@@ -41,11 +41,11 @@ def ekranitemizle():
 
 
 pencere = Tk()
-pencere.title("Sahin's pencere")
+pencere.title("Sahin's window")
 pencere.geometry("400x400+200+150")
 
 qarsilama = Label(pencere)
-qarsilama.config(text="Welcome to my pencere :)")
+qarsilama.config(text="Welcome to my window :)")
 qarsilama.pack()
 
 username = Label(pencere)
@@ -63,11 +63,11 @@ sifre = Entry(pencere)
 sifre.pack()
 
 buton = Button(pencere)
-buton.config(text="Daxil ol!", command=girisFunction)
+buton.config(text="Log in!", command=girisFunction)
 buton.pack()
 
 netice = Label(pencere)
-netice.config(text="Heleki daxil olunmayib..")
+netice.config(text="No logged in yet..")
 netice.pack()
 
 mainloop()
